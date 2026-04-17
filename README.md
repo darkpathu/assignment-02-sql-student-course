@@ -1,1 +1,4 @@
-# assignment-02-sql-student-course
+echo "# Assignment 02 - SQL" > README.md
+git add .
+git commit -m "Initial commit"
+git push origin main
